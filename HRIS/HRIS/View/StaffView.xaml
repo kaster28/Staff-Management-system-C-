@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="HRIS.View.StaffView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HRIS.View"
+             mc:Ignorable="d" d:DesignWidth="600.373" Height="364">
+    <Grid DataContext="{Binding Source={StaticResource staffList}}" Margin="0,0,-53,-95">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="95*"/>
+            <ColumnDefinition Width="179*"/>
+        </Grid.ColumnDefinitions>
+        <local:UserControl1 HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top" Width="190" Height="89" Loaded="UserControl1_Loaded"/>
+        <ListBox HorizontalAlignment="Left" Height="225" Margin="15,109,0,0" VerticalAlignment="Top" Width="162" SelectionChanged="StaffListBox_SelectionChanged" ItemsSource="{Binding Mode=OneWay}"/>
+        <StackPanel x:Name="StaffDetail" Orientation="Vertical" Grid.Column="2" Margin="0,25,10,0">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Name:" HorizontalAlignment="Left" Margin="0,0,5,0"></Label>
+                        <Label Content="{Binding Path=Name}" Width="138" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Campus:" HorizontalAlignment="Left"></Label>
+                        <Label Content="{Binding Path=Campus}" Width="138" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Phone:" HorizontalAlignment="Left" Margin="0,0,5,0"></Label>
+                        <Label Content="{Binding Path=Phone}" Width="138" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="256">
+                        <Label Content="Current Availability:" HorizontalAlignment="Left" Margin="0" Width="112"></Label>
+                        <Label Content="{Binding Path=AvilInfo}" Width="137" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Room:" HorizontalAlignment="Left" Margin="0,0,5,0"></Label>
+                        <Label Content="{Binding Path=Room}" Width="138" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Email:" HorizontalAlignment="Left" Margin="0,0,5,0"></Label>
+                        <Label Content="{Binding Path=Email}" Width="138" HorizontalAlignment="Left"></Label>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="20,0,0,0">
+                    <Image x:Name="Photo" HorizontalAlignment="Right" VerticalAlignment="Top" Height="123" Width="129" Source="{Binding Path=Photo}"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Height="281">
+                <StackPanel>
+                    <Label Content="Consultation time:"></Label>
+                </StackPanel>
+                <StackPanel>
+                    <ListBox ItemsSource="{Binding Path=eventList}"></ListBox>
+                </StackPanel>
+                <StackPanel>
+                    <Label Content="Teaching this semester:"></Label>
+                </StackPanel>
+                <StackPanel>
+                    <ListBox ItemsSource="{Binding Path=classList}" ></ListBox>
+                </StackPanel>
+                <Button Content="Activity Grid" HorizontalAlignment="Left" Margin="5,5,0,0" Background="WhiteSmoke" BorderBrush="AliceBlue"/>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,489 @@
+c:\users\czhao10\source\repos\HRIS\HRIS\bin\Debug\HRIS.exe.config
+c:\users\czhao10\source\repos\HRIS\HRIS\bin\Debug\HRIS.exe
+c:\users\czhao10\source\repos\HRIS\HRIS\bin\Debug\HRIS.pdb
+c:\users\czhao10\source\repos\HRIS\HRIS\bin\Debug\MySql.Data.dll
+c:\users\czhao10\source\repos\HRIS\HRIS\bin\Debug\MySql.Data.xml
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\View\MainWindow.g.cs
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\View\App.g.cs
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\View\MainWindow.baml
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.g.resources
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.exe
+c:\users\czhao10\source\repos\HRIS\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v2\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v3\HRIS\obj\Debug\View\MainWindow.baml
+F:\assignment\HRIS v4\HRIS\bin\Debug\HRIS.exe.config
+F:\assignment\HRIS v4\HRIS\bin\Debug\HRIS.exe
+F:\assignment\HRIS v4\HRIS\bin\Debug\HRIS.pdb
+F:\assignment\HRIS v4\HRIS\bin\Debug\MySql.Data.dll
+F:\assignment\HRIS v4\HRIS\bin\Debug\Google.Protobuf.dll
+F:\assignment\HRIS v4\HRIS\bin\Debug\MySql.Data.xml
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.csprojAssemblyReference.cache
+F:\assignment\HRIS v4\HRIS\obj\Debug\View\MainWindow.g.cs
+F:\assignment\HRIS v4\HRIS\obj\Debug\View\App.g.cs
+F:\assignment\HRIS v4\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+F:\assignment\HRIS v4\HRIS\obj\Debug\View\App.baml
+F:\assignment\HRIS v4\HRIS\obj\Debug\View\MainWindow.baml
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.g.resources
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.csproj.GenerateResource.cache
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.csproj.CopyComplete
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.exe
+F:\assignment\HRIS v4\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS v4\HRIS\obj\Debug\View\UserControl1.baml
+E:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.exe.config
+E:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.exe
+E:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.pdb
+E:\assignment\HRIS v5\HRIS\bin\Debug\MySql.Data.dll
+E:\assignment\HRIS v5\HRIS\bin\Debug\MySql.Data.xml
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\MainWindow.g.cs
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\UserControl1.g.cs
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\App.g.cs
+E:\assignment\HRIS v5\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\App.baml
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\MainWindow.baml
+E:\assignment\HRIS v5\HRIS\obj\Debug\View\UserControl1.baml
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.g.resources
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.exe
+E:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.pdb
+F:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.exe.config
+F:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.exe
+F:\assignment\HRIS v5\HRIS\bin\Debug\HRIS.pdb
+F:\assignment\HRIS v5\HRIS\bin\Debug\MySql.Data.dll
+F:\assignment\HRIS v5\HRIS\bin\Debug\Google.Protobuf.dll
+F:\assignment\HRIS v5\HRIS\bin\Debug\MySql.Data.xml
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csprojAssemblyReference.cache
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\MainWindow.g.cs
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\UserControl1.g.cs
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\App.g.cs
+F:\assignment\HRIS v5\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\App.baml
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\MainWindow.baml
+F:\assignment\HRIS v5\HRIS\obj\Debug\View\UserControl1.baml
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.g.resources
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csproj.GenerateResource.cache
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.csproj.CopyComplete
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.exe
+F:\assignment\HRIS v5\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS v5\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS v6\HRIS\obj\Debug\View\UserControl2.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.csprojAssemblyReference.cache
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\MainWindow.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UnitView.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UserControl1.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UserControl2.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\App.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.exe
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.pdb
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\HRIS.exe.config
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\HRIS.exe
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\HRIS.pdb
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\MySql.Data.dll
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\Google.Protobuf.dll
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\bin\Debug\MySql.Data.xml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\App.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\MainWindow.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UnitView.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UserControl1.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\View\UserControl2.baml
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.g.resources
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.csproj.GenerateResource.cache
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+D:\ICT\SWD506\assignment\HRIS v7\HRIS\obj\Debug\HRIS.csproj.CopyComplete
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v7\HRIS v7\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\StaffView.g.cs
+C:\Users\czhao10\Desktop\HRIS+v8\HRIS v7\HRIS\obj\Debug\View\StaffView.baml
+E:\assignment\HRIS v9\HRIS\bin\Debug\HRIS.exe.config
+E:\assignment\HRIS v9\HRIS\bin\Debug\HRIS.exe
+E:\assignment\HRIS v9\HRIS\bin\Debug\HRIS.pdb
+E:\assignment\HRIS v9\HRIS\bin\Debug\MySql.Data.dll
+E:\assignment\HRIS v9\HRIS\bin\Debug\MySql.Data.xml
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\MainWindow.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\StaffView.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UnitView.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UserControl1.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UserControl2.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\App.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\App.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\MainWindow.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\StaffView.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UnitView.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UserControl1.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\View\UserControl2.baml
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.g.resources
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.exe
+E:\assignment\HRIS v9\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\StaffView.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\StaffView.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v9\HRIS\obj\Debug\HRIS.pdb
+E:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.exe.config
+E:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.exe
+E:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.pdb
+E:\506 assignment 2\HRIS v9\HRIS\bin\Debug\MySql.Data.dll
+E:\506 assignment 2\HRIS v9\HRIS\bin\Debug\MySql.Data.xml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\MainWindow.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\StaffView.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UnitView.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl1.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl2.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\App.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\App.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\MainWindow.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\StaffView.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UnitView.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl1.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl2.baml
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.g.resources
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.exe
+E:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.pdb
+D:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.exe.config
+D:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.exe
+D:\506 assignment 2\HRIS v9\HRIS\bin\Debug\HRIS.pdb
+D:\506 assignment 2\HRIS v9\HRIS\bin\Debug\MySql.Data.dll
+D:\506 assignment 2\HRIS v9\HRIS\bin\Debug\MySql.Data.xml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\MainWindow.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\StaffView.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UnitView.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl1.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl2.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\App.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\App.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\MainWindow.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\StaffView.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UnitView.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl1.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\View\UserControl2.baml
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.g.resources
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.exe
+D:\506 assignment 2\HRIS v9\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\StaffView.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\StaffView.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS+v10\HRIS v10\HRIS\obj\Debug\HRIS.pdb
+E:\assignment\HRIS v10\HRIS\bin\Debug\HRIS.exe.config
+E:\assignment\HRIS v10\HRIS\bin\Debug\HRIS.exe
+E:\assignment\HRIS v10\HRIS\bin\Debug\HRIS.pdb
+E:\assignment\HRIS v10\HRIS\bin\Debug\MySql.Data.dll
+E:\assignment\HRIS v10\HRIS\bin\Debug\MySql.Data.xml
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\MainWindow.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\StaffView.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UnitView.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UserControl1.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UserControl2.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\App.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\App.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\MainWindow.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\StaffView.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UnitView.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UserControl1.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\View\UserControl2.baml
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.g.resources
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.exe
+E:\assignment\HRIS v10\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\StaffView.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\StaffView.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\HRIS v10\HRIS\obj\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\bin\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\bin\Debug\HRIS.pdb
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\MainWindow.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\StaffView.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UnitView.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UserControl1.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UserControl2.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\App.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\App.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\MainWindow.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\StaffView.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UnitView.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UserControl1.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\View\UserControl2.baml
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.exe
+C:\Users\czhao10\Desktop\New folder\HRIS v10\HRIS\obj\Debug\HRIS.pdb

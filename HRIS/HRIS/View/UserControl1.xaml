@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="HRIS.View.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HRIS.View"
+             mc:Ignorable="d" Height="90.756" Width="342.857">
+    <Grid Margin="0,0,10,0">
+        <Label Content="Filter by name:" HorizontalAlignment="Left" Height="28" Margin="0,13,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Filter by category:" HorizontalAlignment="Left" Height="36" Margin="0,50,0,0" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="searchKey" HorizontalAlignment="Left" Margin="99,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="search_KeyChanged" Width="76"/>
+        <ComboBox x:Name="combol_category" HorizontalAlignment="Left" Margin="133,52,0,0" VerticalAlignment="Top" SelectedIndex="0" SelectionChanged="ComboBox_SelectionChanged" ItemsSource="{Binding Source={StaticResource categoryValues}}"/>
+
+    </Grid>
+</UserControl>
